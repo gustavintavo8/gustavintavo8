@@ -95,6 +95,6 @@
 </p>
 
 ------
-**Credits :** [gustavintavo10](https://github.com/gustavintavo10)
+**Credits :** [gustavintavo8](https://github.com/gustavintavo8)
 
 **Last Edited on:** 27/05/2025
