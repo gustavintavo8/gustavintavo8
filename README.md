@@ -29,7 +29,7 @@
 <h2>🔥| My contribution streak</h2>
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=gustavintavo8&cache_bust=1" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=gustavintavo8" alt="GitHub Streak" />
   </a>
 </p>
 
