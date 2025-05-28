@@ -26,10 +26,12 @@
   </table>
 </div>
 
-## 🔥 My contribution streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=gustavintavo8)](https://git.io/streak-stats)
-
+<h2>🔥| My contribution streak</h2>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=gustavintavo8" alt="GitHub Streak" />
+  </a>
+</p>
 
 <h2>⭐ | Github Stats </h2>
 <div align="center">
