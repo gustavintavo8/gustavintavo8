@@ -90,7 +90,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-linkedin/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/gustavo-sobrado-aller-a296961a7/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/gustavin_tavo8/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" /></a>
   <a href="https://x.com/AlleSobrado" target="_blank"><img src="https://avatars.githubusercontent.com/u/50278?s=200&v=4" alt="X" height="40" /></a>
 </p>
