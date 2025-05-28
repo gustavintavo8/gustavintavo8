@@ -33,13 +33,13 @@
   </a>
 </p>
 
-<h2>⭐ | Github Stats </h2>
-<div align="center">
-  <a href="https://github.com/gustavintavo8">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavintavo8&show_icons=true&theme=default&include_all_commits=true&count_private=true&cache_bust=1"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavintavo8&layout=compact&langs_count=7&theme=default&cache_bust=1"/>
-  </a>
-</div>
+<h2>⭐ | GitHub Stats </h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavintavo8&show_icons=true&theme=default&include_all_commits=true&count_private=true&cache_bust=1" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavintavo8&layout=compact&langs_count=7&theme=default&cache_bust=1" />
+</p>
 
 <h2>🛠️ | Languages, Frameworks, and Tools </h2>
 <div align="center">
