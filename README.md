@@ -16,7 +16,7 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://www.uniovi.es/o/adaptive-media/image/2213235/3/434cc26c-9dc5-d9af-cf45-a6df4e09685c?t=1677849176744" height="70" alt="Uniovi logo"/><br>
+        <img src="[https://www.uniovi.es/o/adaptive-media/image/2213235/3/434cc26c-9dc5-d9af-cf45-a6df4e09685c?t=1677849176744](https://www.uniovi.es/conocenos/uniovi/identidad)" height="70" alt="Uniovi logo"/><br>
         <strong>Universidad de Oviedo</strong><br>
         <strong>BSc.</strong> Computer Science<br>
         <em>2020 - 2025 (ongoing)</em><br><br>
