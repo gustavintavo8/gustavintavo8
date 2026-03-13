@@ -33,9 +33,6 @@
 
 <h2>⭐ | GitHub Stats </h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavintavo8&show_icons=true&theme=default&include_all_commits=true&count_private=true&cache_bust=1" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavintavo8&layout=compact&langs_count=7&theme=default&cache_bust=1" />
 </p>
 
