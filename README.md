@@ -44,9 +44,8 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=gustavintavo8&show_icons=true" />
 </picture>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavintavo8&layout=compact&langs_count=7&theme=default&cache_bust=1" />
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavintavo8" alt="Top Langs"></a>
 </p>
 
 <h2>🛠️ | Languages, Frameworks, and Tools </h2>
