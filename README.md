@@ -1,108 +1,21 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Gustavo+Sobrado!;" />
+## Gustavo Sobrado Aller
 
-<h2>📖 | About me</h2>
-<p>🌱 I'm a Computer Science student with a strong passion for learning and continuous improvement. I enjoy exploring different areas of software development—from low-level programming and systems to modern web and mobile technologies. My academic journey is driven by curiosity, discipline, and a desire to turn knowledge into practical, impactful solutions. I believe in writing clean, understandable code, collaborating effectively, and always staying open to new challenges that push me to grow personally and professionally.</p>
+Estudiante de último año de Ingeniería Informática en la Universidad de Oviedo. Construyo backends y sistemas con LLMs de extremo a extremo: diseño, implementación, despliegue, observabilidad y tests.
 
-<div align="center">
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
-  <br/>
-</div>
+Me interesa cómo se pasa de un prototipo con una API de LLM a algo que se puede dejar abierto a usuarios reales sin que se rompa: retrieval que de verdad recupera, evaluación, latencia, costes, prompt injection, rate limiting.
 
-<h2>📚 | Education</h2>
-<p>As a Computer Science student, I'm currently pursuing my Bachelor's degree in Engineering, with a strong focus on software development, systems architecture, and cybersecurity. Throughout my academic journey, I’ve been driven by a passion for technology and a commitment to building a solid technical foundation. I continuously seek opportunities to expand my knowledge both inside and outside the classroom, working on real-world projects and exploring new technologies that challenge me to grow.</p><br>
+### Lo que estoy construyendo
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="uniovi.png" height="70" alt="Uniovi logo"/><br>
-        <strong>Universidad de Oviedo</strong><br>
-        <strong>BSc.</strong> Computer Science<br>
-        <em>2020 - 2025 (ongoing)</em><br><br>
-        <pre style="font-size: 18px;">🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%</pre>
-      </td>
-    </tr>
-  </table>
-</div>
+**[LegalDev](https://github.com/gustavintavo8/legaldev)** — API RAG de normativa legal española y europea para developers.
+FastAPI + ChromaDB + sentence-transformers + Groq (Llama 4). Calibración empírica del threshold de retrieval, mitigación de prompt injection, observabilidad con Prometheus y logs JSON, 84% de cobertura. Desplegado en Hugging Face Spaces.
 
-<h2>🔥| My contribution streak</h2>
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gustavintavo8&theme=blue-green" alt="GitHub Streak" /></a>
-</p>
+**[PachagasApp](https://github.com/gustavintavo8/pachagasapp)** — Plataforma full-stack para organizar partidos de fútbol con 31 usuarios reales en producción.
+Next.js 16 + Supabase + PostgreSQL. Balanceo de equipos en 3 fases sobre ratings ELO, autorización con Row Level Security, asistente conversacional con 11 herramientas de function calling sobre la BD en tiempo real.
 
-<h2>⭐ | GitHub Stats </h2>
-<p align="center">
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=gustavintavo8&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=gustavintavo8&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavintavo8&show_icons=true" />
-</picture>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavintavo8" alt="Top Langs"></a>
-</p>
+### Stack
 
-<h2>🛠️ | Languages, Frameworks, and Tools </h2>
-<div align="center">
-  <table>
-      <tr>
-          <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages:</td>
-          <td>
-              <img height="40" src="https://skillicons.dev/icons?i=python,java,c,cpp,bash"/>
-          </td>
-      </tr>
-      <tr>
-          <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-          <td>
-              <img height="40" src="https://skillicons.dev/icons?i=html,css,js,bootstrap"/>
-          </td>
-      </tr>
-      <tr>
-          <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Databases:</td>
-          <td>
-              <img height="40" src="https://skillicons.dev/icons?i=sqlite,mysql"/>
-          </td>
-      </tr>
-      <tr>
-          <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Version Control:</td>
-          <td>
-              <img height="40" src="https://skillicons.dev/icons?i=git,github"/>
-          </td>
-      </tr>
-      <tr>
-          <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Operating Systems:</td>
-          <td>
-              <img height="40" src="https://skillicons.dev/icons?i=linux,windows"/>
-          </td>
-      </tr>
-      <tr>
-          <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">IDEs & Tools:</td>
-          <td>
-              <img height="40" src="https://skillicons.dev/icons?i=vscode,androidstudio"/>
-          </td>
-      </tr>
-  </table>
-</div>
-<br>
+Python, TypeScript, FastAPI, PostgreSQL, ChromaDB, LangChain, Next.js, Docker, GitHub Actions, pytest, Playwright.
 
-<h2>🤝 | Let's Connect!</h2>
-<p align="center">
-  <i>Feel free to reach out through any of the platforms below:</i>
-</p>
+### Contacto
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gustavo-sobrado-aller-a296961a7/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/gustavin_tavo8/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" /></a>
-  <a href="https://x.com/AlleSobrado" target="_blank"><img src="https://avatars.githubusercontent.com/u/50278?s=200&v=4" alt="X" height="40" /></a>
-</p>
-
-------
-**Credits :** [gustavintavo8](https://github.com/gustavintavo8)
-
-**Last Edited on:** 27/05/2025
+[LinkedIn](https://www.linkedin.com/in/gustavo-sobrado-aller-a296961a7/) · gustavintavo1202@gmail.com
