@@ -30,4 +30,4 @@ Python + API de Amadeus. Se ejecuta solo cada mañana con GitHub Actions, avisa 
 
 ### Contacto
 
-[LinkedIn](https://www.linkedin.com/in/gustavo-sobrado-aller-a296961a7/) · gustavintavo1202@gmail.com
+[LinkedIn](https://www.linkedin.com/in/gustavosobrado) · gustavintavo1202@gmail.com
