@@ -6,7 +6,7 @@ Fuera del trabajo construyo backends y sistemas con LLMs de extremo a extremo: d
 
 ### En el trabajo
 
-- Microservicio en .NET que une el login con la plataforma de fans: registro, consentimientos, cambio de email y borrado de cuenta, con más de 300 tests unitarios.
+- Microservicio en .NET que une el login con la plataforma de fans: registro, consentimientos, cambio de email y borrado de cuenta, con más de 450 tests unitarios.
 - Integración de un proveedor de identidad CIAM con Azure API Management: validación JWT probada con tokens reales.
 - Migración just-in-time de usuarios desde Azure AD B2C, con métricas en Application Insights.
 
@@ -15,10 +15,10 @@ Fuera del trabajo construyo backends y sistemas con LLMs de extremo a extremo: d
 ### Proyectos personales
 
 **[LegalDev](https://github.com/gustavintavo8/legaldev)**: API RAG de normativa legal española y europea para developers.
-FastAPI + ChromaDB + sentence-transformers + Groq (Llama 4). Calibración empírica del threshold de retrieval, mitigación de prompt injection, observabilidad con Prometheus y logs JSON, 84 % de cobertura. Desplegado en Hugging Face Spaces.
+FastAPI + ChromaDB + sentence-transformers + Groq (gpt-oss-120b). Calibración empírica del threshold de retrieval, detección de prompt injection, observabilidad con Prometheus y logs JSON, CI con 290+ tests y 93 % de cobertura. Desplegado con Docker en Hugging Face Spaces.
 
-**[PachagasApp](https://github.com/gustavintavo8/PachagasApp)**: plataforma full-stack para organizar partidos de fútbol, con 31 usuarios reales en producción.
-Next.js 16 + Supabase + PostgreSQL. Balanceo de equipos en 3 fases sobre ratings ELO, autorización con Row Level Security y asistente conversacional con 11 herramientas de function calling sobre la base de datos en tiempo real.
+**[PachagasApp](https://github.com/gustavintavo8/PachagasApp)**: plataforma full-stack para organizar partidos de fútbol, en producción con unos 30 jugadores.
+Next.js 16 + Supabase + PostgreSQL. Balanceo de equipos en 3 fases sobre ratings ELO, autorización con Row Level Security y asistente conversacional con 9 herramientas de function calling sobre la base de datos en tiempo real.
 
 **[Bali Flight Tracker](https://github.com/gustavintavo8/bot-vuelos-bali)**: rastreador diario de precios de vuelos.
 Python + API de Amadeus. Se ejecuta solo cada mañana con GitHub Actions, avisa por Telegram cuando el precio baja de la media histórica y muestra las tendencias en un dashboard de Streamlit.
